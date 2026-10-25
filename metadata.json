@@ -1,0 +1,6 @@
+{
+  "name": "Sankalp IAS - UPSC Civil Services Prep Platform",
+  "description": "Comprehensive UPSC CSE preparation platform featuring live lectures, Prelims CBT mock tests, Mains answer writing, curated digital library, syllabus tracking, and peer discussion forums.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
